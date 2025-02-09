@@ -1,0 +1,6 @@
+streamlit 
+transformers
+ntlk
+tensorflow
+langchain
+tf-keras 
